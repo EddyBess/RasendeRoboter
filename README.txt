@@ -1,16 +1,21 @@
-Le jeu vous permet de jouer a Rasende Roboter.
+The game lets you play Rasende Roboter.
 
-Pour lancer le jeu , executer le fichier menu.py
+To launch the game, run the menu.py file.
 
-Pour chercher une solution à l'aide de l'IA, appuyer sur le bouton IA.
+To search for a solution using AI, press the AI button.
 
-L'IA utilisée est un algorithme de parcours de graphe nommée Breadth First Search.
+The AI used is a graph traversal algorithm called Breadth First Search.
 
-Il vous faudra attendre au minimum une vingtaine de minutes si la solution nécessite plus de 6 coups.
+You'll need to wait at least twenty minutes if the solution requires more than 6 moves.
 
-Pour que vous puisssiez jouez, entrez votre nombre de coups dans la case prévue à cette effet.
+To play, enter your number of moves in the box provided.
 
-Attention , les chiffres saisis ne fonctionneront pas si vous utilisez un pavé numérique.
+Please note that the numbers you enter won't work if you're using a numeric keypad.
 
-Quelques erreurs subistent notamment au niveau de l'affichage de la solution par l'IA.
+There are a few errors, notably in the way the AI displays the solution.
 
+This project needs to be improved.
+
+Possible AI improving techiques :
+  -  Q-Learning
+  -  Deep-Q-Learning
