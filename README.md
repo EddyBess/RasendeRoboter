@@ -1,3 +1,6 @@
+# Rasende Roboter 
+
+## Overview
 The game lets you play Rasende Roboter.
 
 To launch the game, run the menu.py file.
@@ -14,6 +17,12 @@ Please note that the numbers you enter won't work if you're using a numeric keyp
 
 There are a few errors, notably in the way the AI displays the solution.
 
+
+## Comments
+
+This project is not my most complete Python project. Indeed the goal of this project was more about learning graph traversal algorithm such as BFS oder A*.
+
+It can be improve and will problably be when more freetime available
 This project needs to be improved.
 
 Possible AI improving techiques :
